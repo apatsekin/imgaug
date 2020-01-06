@@ -14,6 +14,7 @@ from imgaug.augmenters.flip import *
 from imgaug.augmenters.geometric import *
 from imgaug.augmenters.meta import *
 import imgaug.augmenters.pillike  # use via: iaa.pillike.*
+from imgaug.augmenters.papers import *
 from imgaug.augmenters.pooling import *
 from imgaug.augmenters.segmentation import *
 from imgaug.augmenters.size import *
